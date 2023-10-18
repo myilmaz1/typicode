@@ -50,11 +50,11 @@
 		"list": 71
 	}
 ],
-  "profile": {
-    "name": "typicode"
-  },
-  "paths": [
+	"paths": [
     "posts",
     "dummy"
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
