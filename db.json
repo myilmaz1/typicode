@@ -13,7 +13,48 @@
       "title": "test3"
     }
   ],
+  "dummy": [
+	{
+		"id": "0",
+		"title": "Ann Poole",
+		"startDate": "Nov 11, 2022",
+		"endDate": "Aug 15, 2024",
+		"list": 23
+	},
+	{
+		"id": 1,
+		"title": "Joan England",
+		"startDate": "Dec 6, 2022",
+		"endDate": "Dec 8, 2023",
+		"list": 13
+	},
+	{
+		"id": 2,
+		"title": "Carlos Martinez",
+		"startDate": "Jan 27, 2023",
+		"endDate": "Jun 23, 2024",
+		"list": 37
+	},
+	{
+		"id": 3,
+		"title": "Alexis Knowles",
+		"startDate": "Nov 4, 2023",
+		"endDate": "Sep 24, 2024",
+		"list": 2
+	},
+	{
+		"id": 4,
+		"title": "Ethan Frost",
+		"startDate": "Dec 3, 2023",
+		"endDate": "Oct 12, 2024",
+		"list": 71
+	}
+]
   "profile": {
     "name": "typicode"
-  }
+  },
+  "paths": [
+    "posts",
+    "dummy"
+  ]
 }
